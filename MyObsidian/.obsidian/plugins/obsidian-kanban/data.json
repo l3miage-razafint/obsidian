@@ -1,0 +1,7 @@
+{
+  "tag-colors": [],
+  "new-line-trigger": "shift-enter",
+  "new-card-insertion-method": "prepend",
+  "show-checkboxes": false,
+  "lane-width": 360
+}

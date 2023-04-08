@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Death\nMost humans fear death.","id":"10d179287b4d74a1","x":-120,"y":-120,"width":250,"height":100,"color":"1"},
+		{"type":"text","text":"# Age","id":"68c93f6e5db49a32","x":360,"y":-50,"width":250,"height":60},
+		{"type":"text","text":"# The unknown","id":"b68141c21ff5df28","x":-60,"y":-380,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"# Murder\n","id":"8861ba2e24c99c66","x":-60,"y":160,"width":250,"height":140},
+		{"type":"text","text":"# Starvation\nStarvation is a severe deficiency in caloric energy intake, below the level needed to maintain an organism's life. It is the most extreme form of malnutrition. In humans, prolonged starvation can cause permanent organ damage and eventually death.","id":"636bbe80ded06606","x":-720,"y":-135,"width":440,"height":230}
+	],
+	"edges":[
+		{"id":"f92af47941de57ec","fromNode":"10d179287b4d74a1","fromSide":"left","toNode":"636bbe80ded06606","toSide":"right","toEnd":"none"},
+		{"id":"8d798c9c40940275","fromNode":"10d179287b4d74a1","fromSide":"bottom","toNode":"8861ba2e24c99c66","toSide":"top","toEnd":"none"},
+		{"id":"b93706b0d3a7cd05","fromNode":"10d179287b4d74a1","fromSide":"right","toNode":"68c93f6e5db49a32","toSide":"left","toEnd":"none"},
+		{"id":"477c4eaf90b9192d","fromNode":"10d179287b4d74a1","fromSide":"top","toNode":"b68141c21ff5df28","toSide":"bottom","toEnd":"none"}
+	]
+}

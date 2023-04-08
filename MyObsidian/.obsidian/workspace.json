@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "5670b6c0bc7c61f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb8aa7c40f7f431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac788f7b19dc8ec8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canva/problem chart.canvas",
+                "viewState": {
+                  "x": 31.48358406457578,
+                  "y": 1.5740241513063682,
+                  "zoom": -0.1657372044788792
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0785bbd811c74465",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a5f50542382d2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f082ad31065e82dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd98ceaac7aef23b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfbcdb456e85fb4c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "22d8f9be56493828",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "69ae24ec25578d66",
+    "type": "split",
+    "children": [
+      {
+        "id": "325c353c17f4ffd4",
+        "type": "tabs",
+        "dimension": 66.94444444444444,
+        "children": [
+          {
+            "id": "02d29bab729bd53b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "canva/problem chart.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fad971e14c9db352",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "canva/problem chart.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98cf67bb1beaf023",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b41a634282137649",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "canva/problem chart.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "804fd2811d9f7ec9",
+        "type": "tabs",
+        "dimension": 33.05555555555556,
+        "children": [
+          {
+            "id": "2eef75ae578fd7ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ac788f7b19dc8ec8",
+  "lastOpenFiles": [
+    "templates/todo kanban template.md",
+    "canva/problem chart.canvas",
+    "journal/2023-04-08.md",
+    "Example.md",
+    "templates/Untitled.md",
+    "journal/2023-04-02.md",
+    "journal/2023-W20.md",
+    "journal/2023-04-04.md",
+    "journal/2023-W15.md",
+    "journal/2023-W14.md",
+    "journal/2023-04-03.md",
+    "journal",
+    "attachments/Screenshot_2023-04-08-15-15-23_1920x1080.png",
+    "canva",
+    "kanban",
+    "templates",
+    "archive",
+    "attachments"
+  ]
+}
