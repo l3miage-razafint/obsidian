@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "The prince of Volden",
-      "path": "stories/The prince of Volden.md"
+      "basename": "2023-W15",
+      "path": "journal/2023-W15.md"
+    },
+    {
+      "basename": "Candidature Master",
+      "path": "vip/Candidature Master.md"
+    },
+    {
+      "basename": "socializing",
+      "path": "canva/socializing.canvas"
     },
     {
       "basename": "problem chart",
       "path": "canva/problem chart.canvas"
+    },
+    {
+      "basename": "The heirs of chaos",
+      "path": "stories/The heirs of chaos.md"
     },
     {
       "basename": "todo kanban template",
@@ -15,10 +27,6 @@
     {
       "basename": "2023-04-08",
       "path": "journal/2023-04-08.md"
-    },
-    {
-      "basename": "Example",
-      "path": "Example.md"
     }
   ],
   "omittedPaths": [],

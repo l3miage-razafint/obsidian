@@ -1,15 +1,18 @@
 {
 	"nodes":[
-		{"type":"text","text":"# Death\nMost humans fear death.","id":"10d179287b4d74a1","x":-120,"y":-120,"width":250,"height":100,"color":"1"},
-		{"type":"text","text":"# Age","id":"68c93f6e5db49a32","x":360,"y":-50,"width":250,"height":60},
-		{"type":"text","text":"# The unknown","id":"b68141c21ff5df28","x":-60,"y":-380,"width":250,"height":60,"color":"1"},
-		{"type":"text","text":"# Murder\n","id":"8861ba2e24c99c66","x":-60,"y":160,"width":250,"height":140},
-		{"type":"text","text":"# Starvation\nStarvation is a severe deficiency in caloric energy intake, below the level needed to maintain an organism's life. It is the most extreme form of malnutrition. In humans, prolonged starvation can cause permanent organ damage and eventually death.","id":"636bbe80ded06606","x":-720,"y":-135,"width":440,"height":230}
+		{"type":"text","text":"# Murder\n","id":"8861ba2e24c99c66","x":-440,"y":230,"width":180,"height":90},
+		{"type":"text","text":"# Starvation\n","id":"636bbe80ded06606","x":-767,"y":-300,"width":287,"height":80},
+		{"type":"text","text":"# The unknown","id":"b68141c21ff5df28","x":-40,"y":-480,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"# Age","id":"68c93f6e5db49a32","x":365,"y":-70,"width":155,"height":70},
+		{"type":"text","text":"# Death\nMost humans fear death.","id":"10d179287b4d74a1","x":-80,"y":-185,"width":250,"height":100,"color":"1"},
+		{"type":"text","text":"# Health Problems\n\n","id":"2f3ac3e56be7025b","x":215,"y":215,"width":305,"height":65}
 	],
 	"edges":[
 		{"id":"f92af47941de57ec","fromNode":"10d179287b4d74a1","fromSide":"left","toNode":"636bbe80ded06606","toSide":"right","toEnd":"none"},
 		{"id":"8d798c9c40940275","fromNode":"10d179287b4d74a1","fromSide":"bottom","toNode":"8861ba2e24c99c66","toSide":"top","toEnd":"none"},
 		{"id":"b93706b0d3a7cd05","fromNode":"10d179287b4d74a1","fromSide":"right","toNode":"68c93f6e5db49a32","toSide":"left","toEnd":"none"},
-		{"id":"477c4eaf90b9192d","fromNode":"10d179287b4d74a1","fromSide":"top","toNode":"b68141c21ff5df28","toSide":"bottom","toEnd":"none"}
+		{"id":"477c4eaf90b9192d","fromNode":"10d179287b4d74a1","fromSide":"top","toNode":"b68141c21ff5df28","toSide":"bottom","toEnd":"none"},
+		{"id":"90370ec343d9d049","fromNode":"68c93f6e5db49a32","fromSide":"bottom","toNode":"2f3ac3e56be7025b","toSide":"top","toEnd":"none"},
+		{"id":"d3411ebea2ad8079","fromNode":"10d179287b4d74a1","fromSide":"bottom","toNode":"2f3ac3e56be7025b","toSide":"top","toEnd":"none"}
 	]
 }

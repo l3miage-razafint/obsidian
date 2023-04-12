@@ -13,24 +13,22 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canva/problem chart.canvas",
+                "file": "canva/socializing.canvas",
                 "viewState": {
-                  "x": 31.48358406457578,
-                  "y": 1.5740241513063682,
-                  "zoom": -0.1657372044788792
+                  "x": 89.8522676466432,
+                  "y": -230.97168549384543,
+                  "zoom": -0.3533333333333334
                 }
               }
             }
           },
           {
-            "id": "969a41d1b11d2c99",
+            "id": "481efac5499478c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "stories/The prince of Volden.md",
-                "mode": "source",
-                "source": false
+                "file": "journal/2023-W15.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stories/The prince of Volden.md",
+                "file": "journal/2023-W15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stories/The prince of Volden.md",
+                "file": "journal/2023-W15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stories/The prince of Volden.md"
+                "file": "journal/2023-W15.md"
               }
             }
           }
@@ -174,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
+    "width": 303.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,19 +189,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "969a41d1b11d2c99",
+  "active": "481efac5499478c5",
   "lastOpenFiles": [
+    "vip/Candidature Master.md",
+    "canva/socializing.canvas",
+    "vip",
+    "canva/Untitled.md",
     "canva/problem chart.canvas",
-    "stories/The prince of Volden.md",
+    "stories/The heirs of chaos.md",
+    "journal/2023-W15.md",
+    "journal/2023-04-10.md",
+    "Example.md",
     "stories",
     "templates/todo kanban template.md",
     "journal/2023-04-08.md",
-    "Example.md",
     "templates/Untitled.md",
     "journal/2023-04-02.md",
     "journal/2023-W20.md",
     "journal/2023-04-04.md",
-    "journal/2023-W15.md",
     "journal/2023-W14.md",
     "journal/2023-04-03.md",
     "journal",
