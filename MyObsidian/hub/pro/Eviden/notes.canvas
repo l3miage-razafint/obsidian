@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"f425a061d36a3e86","x":-380,"y":-40,"width":940,"height":480,"type":"text","text":"# Messages\n\nBonjour Margarita,\n\nRavi de faire votre connaissance. Je suis en effet à la recherche d'une alternance pour septembre 2023.\n\nJe recherche surtout un post dans le développement Backend pour acquérir de l'expérience professionnel dans le domaine, mais je suis également ouvert à toutes autres propositions.\n\nJ'ai récemment assisté à un Meet2Hire de Atos Iseran et ne suis plus que passionné à l'idée de travailler pour votre entreprise.\n\nEn espérant pouvoir échanger plus avec vous, je reste à votre disposition pour de plus amples informations.\nCordialement,\n\nTimoty RAZAFINDRABE\n\n\n\n\n\n"},
+		{"id":"342d2e716c69e18c","x":-620,"y":-460,"width":574,"height":305,"type":"text","text":"# Eviden\n- Atos’ digital, big data and security business lines\n- Data-driven, trusted and sustainable digital transformation\n- Eviden is an Atos Group business with an annual revenue of c. € 5 billion"}
+	],
+	"edges":[]
+}

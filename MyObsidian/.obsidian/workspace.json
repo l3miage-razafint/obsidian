@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdb8aa7c40f7f431",
+        "id": "7d0a32488dd2c48f",
         "type": "tabs",
         "children": [
           {
-            "id": "ac788f7b19dc8ec8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canva/socializing.canvas",
-                "viewState": {
-                  "x": 89.8522676466432,
-                  "y": -230.97168549384543,
-                  "zoom": -0.3533333333333334
-                }
-              }
-            }
-          },
-          {
-            "id": "481efac5499478c5",
+            "id": "a939edf285b3294b",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -32,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,20 +173,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "481efac5499478c5",
+  "active": "a939edf285b3294b",
   "lastOpenFiles": [
-    "vip/Candidature Master.md",
+    "drawing/QUICK DRAW.excalidraw.md",
+    "journal/2023-04-08.md",
     "canva/socializing.canvas",
-    "vip",
+    "kanban/Untitled Kanban.md",
+    "drawing",
+    "canva/QUICK CANVA.canvas",
+    "journal/2023-W15.md",
+    "hub/Untitled",
+    "hub",
+    "Quick note.md",
+    "hub/pro/Eviden/notes.canvas",
+    "hub/vip/Candidature Master.md",
+    "hub/pro/Eviden",
+    "hub/pro",
+    "hub/vip",
     "canva/Untitled.md",
     "canva/problem chart.canvas",
-    "stories/The heirs of chaos.md",
-    "journal/2023-W15.md",
+    "hub/stories/The heirs of chaos.md",
     "journal/2023-04-10.md",
     "Example.md",
-    "stories",
+    "hub/stories",
     "templates/todo kanban template.md",
-    "journal/2023-04-08.md",
     "templates/Untitled.md",
     "journal/2023-04-02.md",
     "journal/2023-W20.md",
@@ -212,9 +206,6 @@
     "journal",
     "attachments/Screenshot_2023-04-08-15-15-23_1920x1080.png",
     "canva",
-    "kanban",
-    "templates",
-    "archive",
-    "attachments"
+    "kanban"
   ]
 }

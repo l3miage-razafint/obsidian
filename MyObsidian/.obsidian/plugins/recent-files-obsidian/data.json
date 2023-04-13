@@ -5,12 +5,28 @@
       "path": "journal/2023-W15.md"
     },
     {
-      "basename": "Candidature Master",
-      "path": "vip/Candidature Master.md"
+      "basename": "QUICK DRAW.excalidraw",
+      "path": "drawing/QUICK DRAW.excalidraw.md"
+    },
+    {
+      "basename": "2023-04-08",
+      "path": "journal/2023-04-08.md"
     },
     {
       "basename": "socializing",
       "path": "canva/socializing.canvas"
+    },
+    {
+      "basename": "QUICK CANVA",
+      "path": "canva/QUICK CANVA.canvas"
+    },
+    {
+      "basename": "notes",
+      "path": "hub/pro/Eviden/notes.canvas"
+    },
+    {
+      "basename": "Candidature Master",
+      "path": "hub/vip/Candidature Master.md"
     },
     {
       "basename": "problem chart",
@@ -18,15 +34,11 @@
     },
     {
       "basename": "The heirs of chaos",
-      "path": "stories/The heirs of chaos.md"
+      "path": "hub/stories/The heirs of chaos.md"
     },
     {
       "basename": "todo kanban template",
       "path": "templates/todo kanban template.md"
-    },
-    {
-      "basename": "2023-04-08",
-      "path": "journal/2023-04-08.md"
     }
   ],
   "omittedPaths": [],
