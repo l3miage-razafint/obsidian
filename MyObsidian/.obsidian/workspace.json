@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d0a32488dd2c48f",
+        "id": "5c8519f0cb47ed0f",
         "type": "tabs",
         "children": [
           {
-            "id": "a939edf285b3294b",
+            "id": "b6b3fa2a616fdfb3",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "journal/2023-W15.md"
+                "file": "journal/2023-W16.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2023-W15.md",
+                "file": "journal/2023-W16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2023-W15.md",
+                "file": "journal/2023-W16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2023-W15.md"
+                "file": "journal/2023-W16.md"
               }
             }
           }
@@ -173,15 +173,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a939edf285b3294b",
+  "active": "b6b3fa2a616fdfb3",
   "lastOpenFiles": [
-    "drawing/QUICK DRAW.excalidraw.md",
+    "journal/2023-W15.md",
+    "journal/2023-W16.md",
     "journal/2023-04-08.md",
-    "canva/socializing.canvas",
+    "canva/Socializing.canvas",
+    "canva/QUICK CANVA.canvas",
+    "drawing/QUICK DRAW.excalidraw.md",
     "kanban/Untitled Kanban.md",
     "drawing",
-    "canva/QUICK CANVA.canvas",
-    "journal/2023-W15.md",
     "hub/Untitled",
     "hub",
     "Quick note.md",
@@ -191,7 +192,7 @@
     "hub/pro",
     "hub/vip",
     "canva/Untitled.md",
-    "canva/problem chart.canvas",
+    "canva/Problem chart.canvas",
     "hub/stories/The heirs of chaos.md",
     "journal/2023-04-10.md",
     "Example.md",

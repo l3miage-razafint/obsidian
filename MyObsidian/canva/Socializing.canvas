@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1a90fa789f0f1163","x":-260,"y":-320,"width":328,"height":87,"color":"6","type":"text","text":"# Command respect "},
+		{"type":"text","text":"# Socializing","id":"ec89fe97311eae8e","x":-7,"y":-590,"width":250,"height":60,"color":"6"},
+		{"id":"00b839186203f0c3","x":-940,"y":-212,"width":390,"height":312,"color":"1","type":"text","text":"# Set boundaries\n\n> *__David__: You're all pussies !\n__John__: David... Where I come from, people would've already started a fist fight with you. Please, never call me a pussy again.*\n\nStay calm and polite. But, set your boundaries in the face of abuse.\n\n\n\n\n"},
+		{"id":"571cf44136a2ca61","x":-528,"y":180,"width":536,"height":216,"color":"2","type":"text","text":"# Disagreements can build trust\n\nDo not be afraid of disagreeing with someone.\n \nSometimes a predictable enemy is more trustworthy that an uncertain ally."},
+		{"id":"fbf25a3699a95f45","x":220,"y":-140,"width":605,"height":378,"color":"#75ffbf","type":"text","text":"# ~~Fake~~ Act it, till you make it\n\nNot only on your words. You must also act on your body language, the tone of your voice and, most importantly, your mentality.\n\nThe leader who treats bad news as unimportant, who tries to minimise the damages or who fakes a smile, is a leader who refuses to face reality when his team needs someone to guide them into it.\n\n**Be confident and honest, even if it seems harsh. Do not fake your convictions and set your mind entirely on them.**"},
+		{"type":"text","text":"## Conversation starters","id":"5c1ba4960a0218ac","x":-520,"y":-670,"width":300,"height":80,"color":"4"}
+	],
+	"edges":[
+		{"id":"159323fecabe0099","fromNode":"ec89fe97311eae8e","fromSide":"left","toNode":"5c1ba4960a0218ac","toSide":"right","color":"6"},
+		{"id":"85dfa1b019abe0ef","fromNode":"ec89fe97311eae8e","fromSide":"bottom","toNode":"1a90fa789f0f1163","toSide":"top","color":"6"},
+		{"id":"33373cdfd6cf6cce","fromNode":"1a90fa789f0f1163","fromSide":"left","toNode":"00b839186203f0c3","toSide":"top","toEnd":"none"},
+		{"id":"22df432a9706064a","fromNode":"1a90fa789f0f1163","fromSide":"bottom","toNode":"571cf44136a2ca61","toSide":"top","toEnd":"none"},
+		{"id":"901cefa0fd8fe00c","fromNode":"1a90fa789f0f1163","fromSide":"right","toNode":"fbf25a3699a95f45","toSide":"top"}
+	]
+}
